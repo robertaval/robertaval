@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Roberta!
 
 Welcome to my GitHub!  
-I’m a Full Stack Developer based in Málaga, Spain, passionate about web development, languages, and personal growth.
+I’m a Full Stack Developer based in Málaga, Spain, passionate about technology, languages, and personal growth.
 
 <details>
-  <summary>Read more about me (English)</summary>
+  <summary>Read more (English)</summary>
 
-  I'm a motivated Full Stack Developer, recently certified by 4Geeks Academy in Madrid. With a background in project management, content writing, and SEO, I bring strong communication and organizational skills to every project. I love building modern web applications using JavaScript, React, Node.js, and SQL, and I am passionate about learning new technologies and best practices in software development.
+  I'm a motivated Full Stack Developer, recently certified by 4Geeks Academy in Madrid. With a background in project management, content writing, and SEO, I bring strong communication and organizational skills to every project. I enjoy building modern web applications using JavaScript, React, Node.js, and SQL, and I am passionate about learning new technologies and best practices in software development.
 
   **What I’m working on:**
   - Expanding my portfolio with full stack projects using React and Node.js
@@ -21,7 +21,7 @@ I’m a Full Stack Developer based in Málaga, Spain, passionate about web devel
   _Other:_ Project management, SEO, CRM tools
 
   **Languages:**  
-  English (Native), Spanish (Proficient), Lithuanian (Native), Russian (Native)
+  English (Fluent), Spanish (Proficient), Lithuanian (Native), Russian (Native)
 
   **How to reach me:**  
   - Email: roberta_valyte@hotmail.com  
@@ -29,13 +29,13 @@ I’m a Full Stack Developer based in Málaga, Spain, passionate about web devel
   - [Portfolio](https://github.com/roberta-val)
 
   **Interests:**  
-  Personal development, learning languages, Latin dance lessons, martial arts.
+  Personal development, language learning, Latin dance, martial arts.
 </details>
 
 <details>
-  <summary>Ver más sobre mí (Español)</summary>
+  <summary>Leer más (Español)</summary>
 
-  Soy desarrolladora Full Stack, actualmente en Málaga y titulada recientemente en 4Geeks Academy (Madrid). Además de mi formación tecnológica, cuento con experiencia en gestión de proyectos, redacción de contenidos y SEO, aportando habilidades de comunicación y organización en el entorno profesional. Disfruto creando aplicaciones web modernas con JavaScript, React, Node.js y SQL, y siempre busco aprender nuevas tecnologías y buenas prácticas en desarrollo.
+  Soy desarrolladora Full Stack, ubicada en Málaga y titulada recientemente en 4Geeks Academy (Madrid). Además de mi formación tecnológica, cuento con experiencia en gestión de proyectos, redacción de contenidos y SEO, lo que me aporta habilidades de comunicación y organización en el entorno profesional. Disfruto creando aplicaciones web modernas con JavaScript, React, Node.js y SQL, y siempre busco aprender nuevas tecnologías y buenas prácticas en desarrollo.
 
   **En qué estoy trabajando:**
   - Ampliando mi portfolio con proyectos full stack en React y Node.js
@@ -58,6 +58,7 @@ I’m a Full Stack Developer based in Málaga, Spain, passionate about web devel
   - [Portafolio](https://github.com/roberta-val)
 
   **Intereses:**  
-  Desarrollo personal, aprender idiomas, clases de baile latino y artes marciales.
+  Desarrollo personal, aprendizaje de idiomas, baile latino y artes marciales.
 </details>
+
 
