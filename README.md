@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Roberta! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/roberta-val">GitHub</a> |
+  <a href="https://github.com/robertaval">GitHub</a> |
   <a href="https://www.linkedin.com/in/roberta-valyte">LinkedIn</a>
 </p>
 
@@ -53,7 +53,7 @@ Certified by 4Geeks Academy in Madrid, I enjoy building modern web applications 
   📬 **How to reach me:**  
   - Email: roberta_valyte@hotmail.com  
   - [LinkedIn](https://www.linkedin.com/in/roberta-valyte)  
-  - [Portfolio](https://github.com/roberta-val)
+  - [Portfolio](https://github.com/robertaval)
 
   🎯 **Interests:**  
   Personal development, language learning, Latin dance 💃, martial arts 🥋.
@@ -76,7 +76,7 @@ Certified by 4Geeks Academy in Madrid, I enjoy building modern web applications 
   📬 **Contacto:**  
   - Email: roberta_valyte@hotmail.com  
   - [LinkedIn](https://www.linkedin.com/in/roberta-valyte)  
-  - [Portafolio](https://github.com/roberta-val)
+  - [Portafolio](https://github.com/robertaval)
 
   🎯 **Intereses:**  
   Desarrollo personal, aprendizaje de idiomas, baile latino 💃 y artes marciales 🥋.
