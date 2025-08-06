@@ -24,9 +24,6 @@ Certified by 4Geeks Academy in Madrid, I enjoy building modern web applications 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -40,47 +37,48 @@ Certified by 4Geeks Academy in Madrid, I enjoy building modern web applications 
 ---
 
 <details>
-  <summary>Read more (English)</summary>
+  <summary>📖 Read more (English)</summary>
 
-  I'm a motivated Full Stack Developer, recently certified by 4Geeks Academy in Madrid. With a background in project management, content writing, and SEO, I bring strong communication and organizational skills to every project. I enjoy building modern web applications using JavaScript, React, Node.js, and SQL, and I am passionate about learning new technologies and best practices in software development.
+  👩‍💻 I'm a motivated Full Stack Developer, recently certified by 4Geeks Academy in Madrid. With a background in project management, content writing, and SEO, I bring strong communication and organizational skills to every project. I enjoy building modern web applications using **JavaScript, React, Node.js, and SQL**, and I am passionate about learning new technologies and best practices in software development.
 
-  **What I’m working on:**
-  - Building full stack projects with React and Python
-  - Exploring artificial intelligence and machine learning fundamentals
-  - Deepening my knowledge of cloud services and DevOps tools
-  - Continuously learning through online courses and coding challenges
+  🚀 **What I’m working on:**  
+  - Building full stack projects with React and Python  
+  - Exploring artificial intelligence and machine learning fundamentals 🤖  
+  - Deepening my knowledge of cloud services and DevOps tools ☁️⚙️  
+  - Continuously learning through online courses and coding challenges 🎓
 
-  **Languages:**  
+  🌍 **Languages:**  
   English (Fluent), Spanish (Proficient), Lithuanian (Native), Russian (Native)
 
-  **How to reach me:**  
+  📬 **How to reach me:**  
   - Email: roberta_valyte@hotmail.com  
   - [LinkedIn](https://www.linkedin.com/in/roberta-valyte)  
   - [Portfolio](https://github.com/roberta-val)
 
-  **Interests:**  
-  Personal development, language learning, Latin dance, martial arts.
+  🎯 **Interests:**  
+  Personal development, language learning, Latin dance 💃, martial arts 🥋.
 </details>
 
 <details>
-  <summary>Leer más (Español)</summary>
+  <summary>📚 Leer más (Español)</summary>
 
-  Soy desarrolladora Full Stack, titulada recientemente en 4Geeks Academy (Madrid). Además de mi formación tecnológica, cuento con experiencia en gestión de proyectos, redacción de contenidos y SEO, lo que me aporta habilidades de comunicación y organización en el entorno profesional. Disfruto creando aplicaciones web modernas con JavaScript, React, Node.js y SQL, y siempre busco aprender nuevas tecnologías y buenas prácticas en desarrollo.
+  👩‍💻 Soy desarrolladora Full Stack, titulada recientemente en 4Geeks Academy (Madrid). Además de mi formación tecnológica, cuento con experiencia en gestión de proyectos, redacción de contenidos y SEO, lo que me aporta habilidades de comunicación y organización en el entorno profesional. Disfruto creando aplicaciones web modernas con **JavaScript, React, Node.js y SQL**, y siempre busco aprender nuevas tecnologías y buenas prácticas en desarrollo.
 
-  **En qué estoy trabajando:**
-  - Desarrollando proyectos full stack con React y Python
-  - Explorando fundamentos de inteligencia artificial y machine learning
-  - Profundizando en servicios cloud y herramientas DevOps
-  - Formándome continuamente a través de cursos online y retos de programación
+  🚀 **En qué estoy trabajando:**  
+  - Desarrollando proyectos full stack con React y Python  
+  - Explorando fundamentos de inteligencia artificial y machine learning 🤖  
+  - Profundizando en servicios cloud y herramientas DevOps ☁️⚙️  
+  - Formándome continuamente a través de cursos online y retos de programación 🎓
 
-  **Idiomas:**  
+  🌍 **Idiomas:**  
   Inglés (Nativo), Español (Avanzado), Lituano (Nativo), Ruso (Nativo)
 
-  **Contacto:**  
+  📬 **Contacto:**  
   - Email: roberta_valyte@hotmail.com  
   - [LinkedIn](https://www.linkedin.com/in/roberta-valyte)  
   - [Portafolio](https://github.com/roberta-val)
 
-  **Intereses:**  
-  Desarrollo personal, aprendizaje de idiomas, baile latino y artes marciales.
+  🎯 **Intereses:**  
+  Desarrollo personal, aprendizaje de idiomas, baile latino 💃 y artes marciales 🥋.
 </details>
+
